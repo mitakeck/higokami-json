@@ -1,0 +1,7 @@
+{
+  "title:`title text{}`": "string",
+  "article[]:`tr.athing`": {
+    "title:`td.title a text{}`": "string",
+    "link:`td.title a attr{href}`": "string"
+  }
+}
