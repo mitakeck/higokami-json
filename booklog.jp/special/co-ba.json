@@ -1,0 +1,6 @@
+{
+  "items[]:`#mainArea > div.cb_userArea`": {
+    "name:`h3 text{}`": "string",
+    "books[]:`div.cd_book a img attr{src}`": "string"
+  }
+}
